@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/4wqxHID.png" alt="Microsoft Azure Logo"/>
 </p>
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
+<h1>Deploying Resource Groups, Virtual Machines, and Virtual Networks</h1>
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
 
 
