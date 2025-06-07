@@ -29,6 +29,7 @@ This walkthrough covers the setup of basic cloud components in the Azure environ
 </p>
 <p>
 </p>This example demonstrates a resource group designed to support the Active Directory environment, including its virtual machines and networks.
+</p>
 <br />
 
 <p>
