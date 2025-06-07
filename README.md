@@ -17,10 +17,10 @@ This walkthrough covers the setup of basic cloud components in the Azure environ
 
 <h2>Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Create Azure account and subscription
+- Create a resource group
+- Create a virtual machine
+- Create a virtual network
 
 <h2>Deployment and Configuration Steps</h2>
 
