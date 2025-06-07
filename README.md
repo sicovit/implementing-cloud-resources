@@ -4,26 +4,18 @@
 </p>
 
 <h1>Deploying Resource Groups, Virtual Machines, and Virtual Networks</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+This walkthrough covers the setup of basic cloud components in the Azure environment.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Active Directory Domain Services
-- PowerShell
+- Microsoft Azure
 
-<h2>Operating Systems Used </h2>
+<h2>Operating System Used </h2>
 
-- Windows Server 2022
 - Windows 10 (21H2)
 
-<h2>High-Level Deployment and Configuration Steps</h2>
+<h2>Deployment and Configuration Steps</h2>
 
 - Step 1
 - Step 2
