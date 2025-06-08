@@ -17,7 +17,7 @@ This walkthrough covers the setup of basic cloud components in the Azure environ
 
 <h2>Deployment of Services</h2>
 
-- Create Azure account and subscription
+- Create an Azure account and subscription
 - Create a resource group
 - Create a virtual machine
 - Create a virtual network
@@ -28,22 +28,22 @@ This walkthrough covers the setup of basic cloud components in the Azure environ
 <img src="https://github.com/user-attachments/assets/eb161306-c1b7-403e-b076-7533e054645e"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-</p>This example demonstrates a resource group designed to support the Active Directory environment, including its virtual machines and networks.
+</p>To create a resource group in Microsoft Azure, sign in to the Azure Portal (or create an account), go to Resource groups, and click "+ Create". Choose your subscription, name the group, select a region, and click "Review + Create" to finish. This sets up a container to organize and manage related cloud resources like VMs and networks. This example demonstrates a resource group designed to support the Active Directory environment, including its virtual machines and networks.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/e75f248e-becc-4454-b7d8-b1bbd9cea6e5" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After creating your resource group in Azure, go to Virtual machines and click "+ Create" > Azure virtual machine. Select the resource group you made, then enter details like the VM name, region, OS image, size, and admin credentials. Finish by reviewing your settings and clicking "Create" to deploy the virtual machine into that group.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/16a17aad-7cd2-48ce-8b51-07202f3e7427" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once your virtual machine is set up, head to Virtual networks in the Azure Portal and select "+ Create". Choose the same resource group and region as your VM, give the network a name, and configure the address space and subnet. Then click "Review + Create" followed by "Create" to launch the virtual network for your VM to connect through.
 </p>
 <br />
