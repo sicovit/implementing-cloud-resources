@@ -22,7 +22,7 @@ This walkthrough covers the setup of basic cloud components in the Azure environ
 - Create a virtual machine
 - Create a virtual network
 
-<h2>Deployment and Configuration Steps</h2>
+<h2>Deployment Steps</h2>
 
 <p>
 <img src="https://github.com/user-attachments/assets/eb161306-c1b7-403e-b076-7533e054645e"height="80%" width="80%" alt="Disk Sanitization Steps"/>
